@@ -1,6 +1,7 @@
 Smart Student Progress Tracker is an intelligent web-based application designed to help students, teachers, and parents monitor academic progress, visualize performance trends, and receive AI-driven recommendations for improvement. Built using ASP.NET Core MVC, Entity Framework Core, and ML.NET, this application ensures seamless user interaction, robust authentication, and insightful analytics to enhance student learning outcomes.
 
 🎯 Key Features
+
 ✅ Student Dashboard
 o	View grades, assignments, and attendance records.
 o	Track progress with interactive charts.
@@ -32,31 +33,48 @@ o	Role-based access control (Student, Teacher, Parent).
 o	Secure login and registration with ASP.NET Identity.
 
 🏗️ Tech Stack
+
 	Component	Technology Used
+
 	Frontend	ASP.NET Core Razor Pages / Blazor
+
 	Backend	ASP.NET Core MVC
+
 	Database	Entity Framework Core (SQL Server)
+
 	Authentication	JWT-based authentication, ASP.NET Identity
+
 	AI/ML Integration	ML.NET for student performance analysis
+
 	Data Visualization	Chart.js for graphs and reports
+
 	Testing	xUnit & Moq for unit and integration tests
 
 🔥 How It Works
+
 1️⃣ User Registration & Login
 	Students, teachers, and parents sign up with role-based authentication.
+
 2️⃣ Data Entry & Management
 o	Teachers upload grades, attendance, and assignments.
 o	Students and parents can view reports via the dashboard.
+
 3️⃣ AI-Powered Insights
 o	ML.NET analyzes past performance and predicts future trends.
 o	Suggests personalized study resources for improvement.
+
 4️⃣ Visualization & Reports
 o	Charts display real-time academic progress.
 o	Parents receive automated performance reports.
 
 🎯 Why Choose Smart Student Progress Tracker?
+
 	AI-Powered Recommendations – Helps students focus on weaker areas.
+
 	Role-Based Access Control – Secure and personalized access for different users.
+
 	Comprehensive Dashboard – All academic records in one place.
+
 	Interactive Data Visualization – Makes performance tracking easy.
+
 	Robust Security – Secure authentication and data encryption.
