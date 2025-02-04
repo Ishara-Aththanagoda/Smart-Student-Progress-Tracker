@@ -5,22 +5,27 @@ Smart Student Progress Tracker is an intelligent web-based application designed 
 o	View grades, assignments, and attendance records.
 o	Track progress with interactive charts.
 o	Receive AI-based recommendations for study materials.
+
 ✅ Teacher Panel
 o	Manage student records and academic performance.
 o	Upload grades and attendance data.
 o	Provide personalized feedback based on AI-generated insights.
+
 ✅ Parent Access
 o	Monitor child’s academic performance.
 o	Receive notifications on grades and attendance.
 o	Access reports to understand improvement areas.
+
 ✅ AI-Based Study Recommendations
 o	Uses ML.NET to analyze performance trends.
 o	Suggests personalized study materials based on weak subjects.
 o	Predicts future performance based on past data.
+
 ✅ Data Visualization & Insights
 o	Interactive charts and graphs to display progress trends.
 o	Compare performance across different subjects and terms.
 o	Generate PDF reports for student records.
+
 ✅ Authentication & Role Management
 o	JWT-based authentication for secure access.
 o	Role-based access control (Student, Teacher, Parent).
